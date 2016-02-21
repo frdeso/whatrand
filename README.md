@@ -1,5 +1,5 @@
 # whatrand
-Simple shared library to control the random number generator of any compiled C program
+Simple shared library to control the random number generator of any compiled C program that uses a rand() function from a shared library.
 
 
 ## norand
